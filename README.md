@@ -5,4 +5,9 @@ CyanHook - A Discord Webhook AIO Tool Including A Spammer, Informater, And Delet
 ```pip install pystyle, requests, re```
 
 ## Preview
-![preview](https://ibb.co/BVYDMBHH)
+![preview](https://github.com/scarlmao/CyanHook/blob/main/image.png)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=scarlmao/CyanHook&type=Date)](https://star-history.com/#scarlmao/justify&Date)
+
