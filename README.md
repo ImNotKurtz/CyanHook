@@ -7,7 +7,3 @@ CyanHook - A Discord Webhook AIO Tool Including A Spammer, Informater, And Delet
 ## Preview
 ![preview](https://github.com/scarlmao/CyanHook/blob/main/image.png)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=scarlmao/CyanHook&type=Date)](https://star-history.com/#scarlmao/justify&Date)
-
