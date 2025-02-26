@@ -7,3 +7,7 @@ CyanHook - A Discord Webhook AIO Tool Including A Spammer, Informater, And Delet
 ## Preview
 ![preview](https://github.com/scarlmao/CyanHook/blob/main/image.png)
 
+## Authors
+
+- [@Kurtz](https://github.com/ImNotKurtz)
+
